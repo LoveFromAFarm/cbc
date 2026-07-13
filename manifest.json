@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "copyright": "© 2026 Otte Crew. All rights reserved. These images are licensed for use only within the ColorBee app.",
+  "featured": [
+    "com.colorbee.keeper.ocean",
+    "com.colorbee.sheets.busybugs",
+    "com.colorbee.keeper.sunset",
+    "com.colorbee.sheets.starrynight",
+    "com.colorbee.keeper.forest"
+  ],
+  "keepers": [
+    {
+      "id": "ocean",
+      "name": "Ocean Set",
+      "tagline": "Cool blues and a drifting wave pattern.",
+      "tags": ["calm", "nature", "animated"],
+      "productId": "com.colorbee.keeper.ocean",
+      "cover": "assets/covers/ocean.enc",
+      "instruments": [
+        { "type": "brush", "red": 0.35, "green": 0.78, "blue": 0.98, "opacity": 1, "displayName": "Cyan Brush" },
+        { "type": "brush", "red": 0.0, "green": 0.478, "blue": 1.0, "opacity": 1, "displayName": "Deep Blue Brush" },
+        { "type": "pencil", "red": 0.19, "green": 0.69, "blue": 0.78, "opacity": 1, "displayName": "Teal Pencil" },
+        { "type": "bucket", "red": 0.0, "green": 0.78, "blue": 0.75, "opacity": 1, "displayName": "Mint Bucket" },
+        { "type": "patternBrush", "red": 0.0, "green": 0.478, "blue": 1.0, "opacity": 1, "patternTexture": "WavePattern", "animation": "drift", "displayName": "Wave Pattern" }
+      ],
+      "sheets": [
+        { "id": "OceanSheet1", "name": "Ocean Sheet 1", "file": "assets/packs/ocean/OceanSheet1.enc" },
+        { "id": "OceanSheet2", "name": "Ocean Sheet 2", "file": "assets/packs/ocean/OceanSheet2.enc" }
+      ]
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset Set",
+      "tagline": "Warm golden colors with a twinkling sunburst.",
+      "tags": ["bright", "animated"],
+      "productId": "com.colorbee.keeper.sunset",
+      "cover": "assets/covers/sunset.enc",
+      "instruments": [
+        { "type": "brush", "red": 1.0, "green": 0.584, "blue": 0.0, "opacity": 1, "displayName": "Orange Brush" },
+        { "type": "brush", "red": 1.0, "green": 0.231, "blue": 0.188, "opacity": 1, "displayName": "Sunset Red Brush" },
+        { "type": "pencil", "red": 1.0, "green": 0.8, "blue": 0.0, "opacity": 1, "displayName": "Gold Pencil" },
+        { "type": "bucket", "red": 1.0, "green": 0.176, "blue": 0.333, "opacity": 1, "displayName": "Rose Bucket" },
+        { "type": "patternBrush", "red": 1.0, "green": 0.584, "blue": 0.0, "opacity": 1, "patternTexture": "SunburstPattern", "animation": "blink", "displayName": "Sunburst Pattern" }
+      ],
+      "sheets": [
+        { "id": "SunsetSheet1", "name": "Sunset Sheet 1", "file": "assets/packs/sunset/SunsetSheet1.enc" },
+        { "id": "SunsetSheet2", "name": "Sunset Sheet 2", "file": "assets/packs/sunset/SunsetSheet2.enc" }
+      ]
+    },
+    {
+      "id": "forest",
+      "name": "Forest Set",
+      "tagline": "Earthy greens and a gently pulsing leaf pattern.",
+      "tags": ["calm", "nature", "advanced"],
+      "productId": "com.colorbee.keeper.forest",
+      "cover": "assets/covers/forest.enc",
+      "instruments": [
+        { "type": "brush", "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1, "displayName": "Forest Brush" },
+        { "type": "brush", "red": 0.635, "green": 0.518, "blue": 0.369, "opacity": 1, "displayName": "Bark Brush" },
+        { "type": "pencil", "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1, "displayName": "Leaf Pencil" },
+        { "type": "bucket", "red": 0.0, "green": 0.78, "blue": 0.75, "opacity": 1, "displayName": "Moss Bucket" },
+        { "type": "patternBrush", "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1, "patternTexture": "LeafPattern", "animation": "pulse", "displayName": "Leaf Pattern" }
+      ],
+      "sheets": [
+        { "id": "ForestSheet1", "name": "Forest Sheet 1", "file": "assets/packs/forest/ForestSheet1.enc" },
+        { "id": "ForestSheet2", "name": "Forest Sheet 2", "file": "assets/packs/forest/ForestSheet2.enc" }
+      ]
+    }
+  ],
+  "sheetPacks": [
+    {
+      "id": "firstshapes",
+      "name": "First Shapes",
+      "tagline": "Big, simple outlines — perfect first sheets.",
+      "tags": ["minimal", "calm"],
+      "productId": "com.colorbee.sheets.firstshapes",
+      "cover": "assets/covers/firstshapes.enc",
+      "accentColors": [
+        { "red": 1.0, "green": 0.8, "blue": 0.0, "opacity": 1 },
+        { "red": 1.0, "green": 0.584, "blue": 0.0, "opacity": 1 }
+      ],
+      "sheets": [
+        { "id": "FirstShapesSheet1", "name": "First Shapes 1", "file": "assets/packs/firstshapes/FirstShapesSheet1.enc" },
+        { "id": "FirstShapesSheet2", "name": "First Shapes 2", "file": "assets/packs/firstshapes/FirstShapesSheet2.enc" },
+        { "id": "FirstShapesSheet3", "name": "First Shapes 3", "file": "assets/packs/firstshapes/FirstShapesSheet3.enc" },
+        { "id": "FirstShapesSheet4", "name": "First Shapes 4", "file": "assets/packs/firstshapes/FirstShapesSheet4.enc" }
+      ]
+    },
+    {
+      "id": "busybugs",
+      "name": "Busy Bugs",
+      "tagline": "Friendly bees, butterflies, and garden crawlers.",
+      "tags": ["nature", "bright"],
+      "productId": "com.colorbee.sheets.busybugs",
+      "cover": "assets/covers/busybugs.enc",
+      "accentColors": [
+        { "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1 },
+        { "red": 1.0, "green": 0.176, "blue": 0.333, "opacity": 1 },
+        { "red": 1.0, "green": 0.8, "blue": 0.0, "opacity": 1 }
+      ],
+      "sheets": [
+        { "id": "BusyBugsSheet1", "name": "Busy Bugs 1", "file": "assets/packs/busybugs/BusyBugsSheet1.enc" },
+        { "id": "BusyBugsSheet2", "name": "Busy Bugs 2", "file": "assets/packs/busybugs/BusyBugsSheet2.enc" },
+        { "id": "BusyBugsSheet3", "name": "Busy Bugs 3", "file": "assets/packs/busybugs/BusyBugsSheet3.enc" },
+        { "id": "BusyBugsSheet4", "name": "Busy Bugs 4", "file": "assets/packs/busybugs/BusyBugsSheet4.enc" }
+      ]
+    },
+    {
+      "id": "dinodays",
+      "name": "Dino Days",
+      "tagline": "Gentle dinosaurs with lots of little details.",
+      "tags": ["advanced", "nature"],
+      "productId": "com.colorbee.sheets.dinodays",
+      "cover": "assets/covers/dinodays.enc",
+      "accentColors": [
+        { "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1 },
+        { "red": 0.19, "green": 0.69, "blue": 0.78, "opacity": 1 }
+      ],
+      "sheets": [
+        { "id": "DinoDaysSheet1", "name": "Dino Days 1", "file": "assets/packs/dinodays/DinoDaysSheet1.enc" },
+        { "id": "DinoDaysSheet2", "name": "Dino Days 2", "file": "assets/packs/dinodays/DinoDaysSheet2.enc" },
+        { "id": "DinoDaysSheet3", "name": "Dino Days 3", "file": "assets/packs/dinodays/DinoDaysSheet3.enc" },
+        { "id": "DinoDaysSheet4", "name": "Dino Days 4", "file": "assets/packs/dinodays/DinoDaysSheet4.enc" }
+      ]
+    },
+    {
+      "id": "starrynight",
+      "name": "Starry Night",
+      "tagline": "Moons, rockets, and sleepy skies to wind down with.",
+      "tags": ["calm", "advanced"],
+      "productId": "com.colorbee.sheets.starrynight",
+      "cover": "assets/covers/starrynight.enc",
+      "accentColors": [
+        { "red": 0.345, "green": 0.337, "blue": 0.839, "opacity": 1 },
+        { "red": 0.686, "green": 0.322, "blue": 0.871, "opacity": 1 }
+      ],
+      "sheets": [
+        { "id": "StarryNightSheet1", "name": "Starry Night 1", "file": "assets/packs/starrynight/StarryNightSheet1.enc" },
+        { "id": "StarryNightSheet2", "name": "Starry Night 2", "file": "assets/packs/starrynight/StarryNightSheet2.enc" },
+        { "id": "StarryNightSheet3", "name": "Starry Night 3", "file": "assets/packs/starrynight/StarryNightSheet3.enc" },
+        { "id": "StarryNightSheet4", "name": "Starry Night 4", "file": "assets/packs/starrynight/StarryNightSheet4.enc" }
+      ]
+    }
+  ],
+  "freeDrops": [
+    {
+      "id": "2026-07",
+      "name": "Summer Friends",
+      "availableFrom": "2026-07-01T00:00:00Z",
+      "sheets": [
+        { "id": "free-2026-07-buzzy-meadow", "name": "Buzzy Meadow", "file": "assets/free/2026-07/buzzy-meadow.enc" },
+        { "id": "free-2026-07-picnic-day", "name": "Picnic Day", "file": "assets/free/2026-07/picnic-day.enc" }
+      ]
+    },
+    {
+      "id": "2026-08",
+      "name": "Beach Day",
+      "availableFrom": "2026-08-01T00:00:00Z",
+      "sheets": [
+        { "id": "free-2026-08-sandcastle", "name": "Sandcastle", "file": "assets/free/2026-08/sandcastle.enc" },
+        { "id": "free-2026-08-tide-pool", "name": "Tide Pool", "file": "assets/free/2026-08/tide-pool.enc" }
+      ]
+    }
+  ]
+}

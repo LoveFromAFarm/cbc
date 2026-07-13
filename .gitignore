@@ -1,0 +1,5 @@
+# The content encryption key must NEVER be committed — this repo is public.
+key.hex
+encrypt.swift
+
+.DS_Store
