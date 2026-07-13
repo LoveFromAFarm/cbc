@@ -2,4 +2,7 @@
 key.hex
 encrypt.swift
 
+# Plaintext artwork stays local; only encrypted assets/ ship.
+art/
+
 .DS_Store
