@@ -336,6 +336,7 @@
     {
       "id": "dinodays",
       "name": "Dino Days",
+      "coverAlignment": "top",
       "tagline": "Gentle dinosaurs with lots of little details.",
       "tags": [
         "advanced",
