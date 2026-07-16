@@ -2,6 +2,7 @@
 key.hex
 encrypt.swift
 encrypt_all.swift
+hash_manifest.py
 
 # Plaintext artwork stays local; only encrypted assets/ ship.
 art/

@@ -13,58 +13,213 @@
       "id": "ocean",
       "name": "Ocean Set",
       "tagline": "Cool blues and a drifting wave pattern.",
-      "tags": ["calm", "nature", "animated"],
+      "tags": [
+        "calm",
+        "nature",
+        "animated"
+      ],
       "productId": "com.colorbee.keeper.ocean",
       "cover": "assets/covers/ocean.enc",
       "instruments": [
-        { "type": "brush", "red": 0.35, "green": 0.78, "blue": 0.98, "opacity": 1, "displayName": "Cyan Brush" },
-        { "type": "brush", "red": 0.0, "green": 0.478, "blue": 1.0, "opacity": 1, "displayName": "Deep Blue Brush" },
-        { "type": "pencil", "red": 0.19, "green": 0.69, "blue": 0.78, "opacity": 1, "displayName": "Teal Pencil" },
-        { "type": "bucket", "red": 0.0, "green": 0.78, "blue": 0.75, "opacity": 1, "displayName": "Mint Bucket" },
-        { "type": "patternBrush", "red": 0.0, "green": 0.478, "blue": 1.0, "opacity": 1, "patternTexture": "WavePattern", "animation": "drift", "displayName": "Wave Pattern" }
+        {
+          "type": "brush",
+          "red": 0.35,
+          "green": 0.78,
+          "blue": 0.98,
+          "opacity": 1,
+          "displayName": "Cyan Brush"
+        },
+        {
+          "type": "brush",
+          "red": 0.0,
+          "green": 0.478,
+          "blue": 1.0,
+          "opacity": 1,
+          "displayName": "Deep Blue Brush"
+        },
+        {
+          "type": "pencil",
+          "red": 0.19,
+          "green": 0.69,
+          "blue": 0.78,
+          "opacity": 1,
+          "displayName": "Teal Pencil"
+        },
+        {
+          "type": "bucket",
+          "red": 0.0,
+          "green": 0.78,
+          "blue": 0.75,
+          "opacity": 1,
+          "displayName": "Mint Bucket"
+        },
+        {
+          "type": "patternBrush",
+          "red": 0.0,
+          "green": 0.478,
+          "blue": 1.0,
+          "opacity": 1,
+          "patternTexture": "WavePattern",
+          "animation": "drift",
+          "displayName": "Wave Pattern"
+        }
       ],
       "sheets": [
-        { "id": "OceanSheet1", "name": "Ocean Sheet 1", "file": "assets/packs/ocean/OceanSheet1.enc" },
-        { "id": "OceanSheet2", "name": "Ocean Sheet 2", "file": "assets/packs/ocean/OceanSheet2.enc" }
-      ]
+        {
+          "id": "OceanSheet1",
+          "name": "Ocean Sheet 1",
+          "file": "assets/packs/ocean/OceanSheet1.enc",
+          "hash": "6872438a6079616a6f78c2ffb49a7665a2131f139ac2a6ce55206c87057eab56"
+        },
+        {
+          "id": "OceanSheet2",
+          "name": "Ocean Sheet 2",
+          "file": "assets/packs/ocean/OceanSheet2.enc",
+          "hash": "a01b6a6971fdec01498540234caeba0d2b52dea30b363af1d104200c42670750"
+        }
+      ],
+      "coverHash": "bc1816a9089d4afc5c6aa1448bd47a233d687bd0236332734a89977e51f943a7"
     },
     {
       "id": "sunset",
       "name": "Sunset Set",
       "tagline": "Warm golden colors with a twinkling sunburst.",
-      "tags": ["bright", "animated"],
+      "tags": [
+        "bright",
+        "animated"
+      ],
       "productId": "com.colorbee.keeper.sunset",
       "cover": "assets/covers/sunset.enc",
       "instruments": [
-        { "type": "brush", "red": 1.0, "green": 0.584, "blue": 0.0, "opacity": 1, "displayName": "Orange Brush" },
-        { "type": "brush", "red": 1.0, "green": 0.231, "blue": 0.188, "opacity": 1, "displayName": "Sunset Red Brush" },
-        { "type": "pencil", "red": 1.0, "green": 0.8, "blue": 0.0, "opacity": 1, "displayName": "Gold Pencil" },
-        { "type": "bucket", "red": 1.0, "green": 0.176, "blue": 0.333, "opacity": 1, "displayName": "Rose Bucket" },
-        { "type": "patternBrush", "red": 1.0, "green": 0.584, "blue": 0.0, "opacity": 1, "patternTexture": "SunburstPattern", "animation": "blink", "displayName": "Sunburst Pattern" }
+        {
+          "type": "brush",
+          "red": 1.0,
+          "green": 0.584,
+          "blue": 0.0,
+          "opacity": 1,
+          "displayName": "Orange Brush"
+        },
+        {
+          "type": "brush",
+          "red": 1.0,
+          "green": 0.231,
+          "blue": 0.188,
+          "opacity": 1,
+          "displayName": "Sunset Red Brush"
+        },
+        {
+          "type": "pencil",
+          "red": 1.0,
+          "green": 0.8,
+          "blue": 0.0,
+          "opacity": 1,
+          "displayName": "Gold Pencil"
+        },
+        {
+          "type": "bucket",
+          "red": 1.0,
+          "green": 0.176,
+          "blue": 0.333,
+          "opacity": 1,
+          "displayName": "Rose Bucket"
+        },
+        {
+          "type": "patternBrush",
+          "red": 1.0,
+          "green": 0.584,
+          "blue": 0.0,
+          "opacity": 1,
+          "patternTexture": "SunburstPattern",
+          "animation": "blink",
+          "displayName": "Sunburst Pattern"
+        }
       ],
       "sheets": [
-        { "id": "SunsetSheet1", "name": "Sunset Sheet 1", "file": "assets/packs/sunset/SunsetSheet1.enc" },
-        { "id": "SunsetSheet2", "name": "Sunset Sheet 2", "file": "assets/packs/sunset/SunsetSheet2.enc" }
-      ]
+        {
+          "id": "SunsetSheet1",
+          "name": "Sunset Sheet 1",
+          "file": "assets/packs/sunset/SunsetSheet1.enc",
+          "hash": "710a002fd60a54e7d47830c07b8a32161854fddf5630ae36c468deee9bc824ab"
+        },
+        {
+          "id": "SunsetSheet2",
+          "name": "Sunset Sheet 2",
+          "file": "assets/packs/sunset/SunsetSheet2.enc",
+          "hash": "85ac1e5222191d5b30bb2a3d16fb7bc3d9e1e7ba349d6a9c47603312b0ac1354"
+        }
+      ],
+      "coverHash": "b88f80f1da8df37bfa4037ae1e3d7d2417fe38593a5e240353844f74db5ca98f"
     },
     {
       "id": "forest",
       "name": "Forest Set",
       "tagline": "Earthy greens and a gently pulsing leaf pattern.",
-      "tags": ["calm", "nature", "advanced"],
+      "tags": [
+        "calm",
+        "nature",
+        "advanced"
+      ],
       "productId": "com.colorbee.keeper.forest",
       "cover": "assets/covers/forest.enc",
       "instruments": [
-        { "type": "brush", "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1, "displayName": "Forest Brush" },
-        { "type": "brush", "red": 0.635, "green": 0.518, "blue": 0.369, "opacity": 1, "displayName": "Bark Brush" },
-        { "type": "pencil", "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1, "displayName": "Leaf Pencil" },
-        { "type": "bucket", "red": 0.0, "green": 0.78, "blue": 0.75, "opacity": 1, "displayName": "Moss Bucket" },
-        { "type": "patternBrush", "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1, "patternTexture": "LeafPattern", "animation": "pulse", "displayName": "Leaf Pattern" }
+        {
+          "type": "brush",
+          "red": 0.204,
+          "green": 0.78,
+          "blue": 0.349,
+          "opacity": 1,
+          "displayName": "Forest Brush"
+        },
+        {
+          "type": "brush",
+          "red": 0.635,
+          "green": 0.518,
+          "blue": 0.369,
+          "opacity": 1,
+          "displayName": "Bark Brush"
+        },
+        {
+          "type": "pencil",
+          "red": 0.204,
+          "green": 0.78,
+          "blue": 0.349,
+          "opacity": 1,
+          "displayName": "Leaf Pencil"
+        },
+        {
+          "type": "bucket",
+          "red": 0.0,
+          "green": 0.78,
+          "blue": 0.75,
+          "opacity": 1,
+          "displayName": "Moss Bucket"
+        },
+        {
+          "type": "patternBrush",
+          "red": 0.204,
+          "green": 0.78,
+          "blue": 0.349,
+          "opacity": 1,
+          "patternTexture": "LeafPattern",
+          "animation": "pulse",
+          "displayName": "Leaf Pattern"
+        }
       ],
       "sheets": [
-        { "id": "ForestSheet1", "name": "Forest Sheet 1", "file": "assets/packs/forest/ForestSheet1.enc" },
-        { "id": "ForestSheet2", "name": "Forest Sheet 2", "file": "assets/packs/forest/ForestSheet2.enc" }
-      ]
+        {
+          "id": "ForestSheet1",
+          "name": "Forest Sheet 1",
+          "file": "assets/packs/forest/ForestSheet1.enc",
+          "hash": "aae1a59758d5b75902ace4d97269911748bdde01641bb33bf49b0cc4c9588eda"
+        },
+        {
+          "id": "ForestSheet2",
+          "name": "Forest Sheet 2",
+          "file": "assets/packs/forest/ForestSheet2.enc",
+          "hash": "d52cd07a064c41b4377919bb17e07d7eae640bd8ede175d081c395d485d1dc0d"
+        }
+      ],
+      "coverHash": "a4b599513cf6bf85a53f1b6d223bcf5d3910aa0db5f06dc9b0ea00fcced67ae5"
     }
   ],
   "sheetPacks": [
@@ -72,74 +227,215 @@
       "id": "firstshapes",
       "name": "First Shapes",
       "tagline": "Big, simple outlines — perfect first sheets.",
-      "tags": ["minimal", "calm"],
+      "tags": [
+        "minimal",
+        "calm"
+      ],
       "productId": "com.colorbee.sheets.firstshapes",
       "cover": "assets/covers/firstshapes.enc",
       "accentColors": [
-        { "red": 1.0, "green": 0.8, "blue": 0.0, "opacity": 1 },
-        { "red": 1.0, "green": 0.584, "blue": 0.0, "opacity": 1 }
+        {
+          "red": 1.0,
+          "green": 0.8,
+          "blue": 0.0,
+          "opacity": 1
+        },
+        {
+          "red": 1.0,
+          "green": 0.584,
+          "blue": 0.0,
+          "opacity": 1
+        }
       ],
       "sheets": [
-        { "id": "FirstShapesSheet1", "name": "First Shapes 1", "file": "assets/packs/firstshapes/FirstShapesSheet1.enc" },
-        { "id": "FirstShapesSheet2", "name": "First Shapes 2", "file": "assets/packs/firstshapes/FirstShapesSheet2.enc" },
-        { "id": "FirstShapesSheet3", "name": "First Shapes 3", "file": "assets/packs/firstshapes/FirstShapesSheet3.enc" },
-        { "id": "FirstShapesSheet4", "name": "First Shapes 4", "file": "assets/packs/firstshapes/FirstShapesSheet4.enc" }
-      ]
+        {
+          "id": "FirstShapesSheet1",
+          "name": "First Shapes 1",
+          "file": "assets/packs/firstshapes/FirstShapesSheet1.enc",
+          "hash": "a014bec6217d4bec5c66a481dd4c339637162ac763cdbcd7ad3f06755131345c"
+        },
+        {
+          "id": "FirstShapesSheet2",
+          "name": "First Shapes 2",
+          "file": "assets/packs/firstshapes/FirstShapesSheet2.enc",
+          "hash": "3435d159577ad157c2751074b69833013bde0fcde1240a4985f20a49b380b06a"
+        },
+        {
+          "id": "FirstShapesSheet3",
+          "name": "First Shapes 3",
+          "file": "assets/packs/firstshapes/FirstShapesSheet3.enc",
+          "hash": "07b9d583a3813b47a4793300d61df006c57da3d5e5990ce8ca57605a69992ae0"
+        },
+        {
+          "id": "FirstShapesSheet4",
+          "name": "First Shapes 4",
+          "file": "assets/packs/firstshapes/FirstShapesSheet4.enc",
+          "hash": "7d6331c3036df7c7937d6b7f18bcb1161962d92ba449127d1fbf8c06ef0354d8"
+        }
+      ],
+      "coverHash": "dad83a24a1c0fa3f065f97f6404fdce6c1c48348b0399f9768970102ce14cb3b"
     },
     {
       "id": "busybugs",
       "name": "Busy Bugs",
       "tagline": "Friendly bees, butterflies, and garden crawlers.",
-      "tags": ["nature", "bright"],
+      "tags": [
+        "nature",
+        "bright"
+      ],
       "productId": "com.colorbee.sheets.busybugs",
       "cover": "assets/covers/busybugs.enc",
       "accentColors": [
-        { "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1 },
-        { "red": 1.0, "green": 0.176, "blue": 0.333, "opacity": 1 },
-        { "red": 1.0, "green": 0.8, "blue": 0.0, "opacity": 1 }
+        {
+          "red": 0.204,
+          "green": 0.78,
+          "blue": 0.349,
+          "opacity": 1
+        },
+        {
+          "red": 1.0,
+          "green": 0.176,
+          "blue": 0.333,
+          "opacity": 1
+        },
+        {
+          "red": 1.0,
+          "green": 0.8,
+          "blue": 0.0,
+          "opacity": 1
+        }
       ],
       "sheets": [
-        { "id": "BusyBugsSheet1", "name": "Busy Bugs 1", "file": "assets/packs/busybugs/BusyBugsSheet1.enc" },
-        { "id": "BusyBugsSheet2", "name": "Busy Bugs 2", "file": "assets/packs/busybugs/BusyBugsSheet2.enc" },
-        { "id": "BusyBugsSheet3", "name": "Busy Bugs 3", "file": "assets/packs/busybugs/BusyBugsSheet3.enc" },
-        { "id": "BusyBugsSheet4", "name": "Busy Bugs 4", "file": "assets/packs/busybugs/BusyBugsSheet4.enc" }
-      ]
+        {
+          "id": "BusyBugsSheet1",
+          "name": "Busy Bugs 1",
+          "file": "assets/packs/busybugs/BusyBugsSheet1.enc",
+          "hash": "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d"
+        },
+        {
+          "id": "BusyBugsSheet2",
+          "name": "Busy Bugs 2",
+          "file": "assets/packs/busybugs/BusyBugsSheet2.enc",
+          "hash": "440911925a29d8ad27ceed715b8e292c5b35e8c05fa91a862820ba0a3caadd71"
+        },
+        {
+          "id": "BusyBugsSheet3",
+          "name": "Busy Bugs 3",
+          "file": "assets/packs/busybugs/BusyBugsSheet3.enc",
+          "hash": "eabaedd811e17f47f0a19d7b6128cbceaf3ae21951c195d056caebda0cc43347"
+        },
+        {
+          "id": "BusyBugsSheet4",
+          "name": "Busy Bugs 4",
+          "file": "assets/packs/busybugs/BusyBugsSheet4.enc",
+          "hash": "7143250bb116332257616e52d4c883b957b4a59bfd9792e89629d996b464acc0"
+        }
+      ],
+      "coverHash": "0f2344bc242371ad1d9de3c344ea738f020220489352afb2b33a43204e8ff494"
     },
     {
       "id": "dinodays",
       "name": "Dino Days",
       "tagline": "Gentle dinosaurs with lots of little details.",
-      "tags": ["advanced", "nature"],
+      "tags": [
+        "advanced",
+        "nature"
+      ],
       "productId": "com.colorbee.sheets.dinodays",
       "cover": "assets/covers/dinodays.enc",
       "accentColors": [
-        { "red": 0.204, "green": 0.78, "blue": 0.349, "opacity": 1 },
-        { "red": 0.19, "green": 0.69, "blue": 0.78, "opacity": 1 }
+        {
+          "red": 0.204,
+          "green": 0.78,
+          "blue": 0.349,
+          "opacity": 1
+        },
+        {
+          "red": 0.19,
+          "green": 0.69,
+          "blue": 0.78,
+          "opacity": 1
+        }
       ],
       "sheets": [
-        { "id": "DinoDaysSheet1", "name": "Dino Days 1", "file": "assets/packs/dinodays/DinoDaysSheet1.enc" },
-        { "id": "DinoDaysSheet2", "name": "Dino Days 2", "file": "assets/packs/dinodays/DinoDaysSheet2.enc" },
-        { "id": "DinoDaysSheet3", "name": "Dino Days 3", "file": "assets/packs/dinodays/DinoDaysSheet3.enc" },
-        { "id": "DinoDaysSheet4", "name": "Dino Days 4", "file": "assets/packs/dinodays/DinoDaysSheet4.enc" }
-      ]
+        {
+          "id": "DinoDaysSheet1",
+          "name": "Dino Days 1",
+          "file": "assets/packs/dinodays/DinoDaysSheet1.enc",
+          "hash": "a0dcc8efbf01d12584ce6155debfb5e721218ef9114e13cbdc7d068b67960239"
+        },
+        {
+          "id": "DinoDaysSheet2",
+          "name": "Dino Days 2",
+          "file": "assets/packs/dinodays/DinoDaysSheet2.enc",
+          "hash": "b1eff4404e6d5f67bbef61881db60e97dd831314c1fce6a948784923de3202b6"
+        },
+        {
+          "id": "DinoDaysSheet3",
+          "name": "Dino Days 3",
+          "file": "assets/packs/dinodays/DinoDaysSheet3.enc",
+          "hash": "8df8187571877334b7b8d390c56002669307993835edbe330952e2f773f3adfd"
+        },
+        {
+          "id": "DinoDaysSheet4",
+          "name": "Dino Days 4",
+          "file": "assets/packs/dinodays/DinoDaysSheet4.enc",
+          "hash": "9d8a6358cffe8ede21680dd8e3f90bcc963dd0728f3c80b726eadc7f9ad46ac2"
+        }
+      ],
+      "coverHash": "dfb5f29a3d040677456f63a29f2a8b2bbcabc682d4c8fd926a0cf2bcd5a0515c"
     },
     {
       "id": "starrynight",
       "name": "Starry Night",
       "tagline": "Moons, rockets, and sleepy skies to wind down with.",
-      "tags": ["calm", "advanced"],
+      "tags": [
+        "calm",
+        "advanced"
+      ],
       "productId": "com.colorbee.sheets.starrynight",
       "cover": "assets/covers/starrynight.enc",
       "accentColors": [
-        { "red": 0.345, "green": 0.337, "blue": 0.839, "opacity": 1 },
-        { "red": 0.686, "green": 0.322, "blue": 0.871, "opacity": 1 }
+        {
+          "red": 0.345,
+          "green": 0.337,
+          "blue": 0.839,
+          "opacity": 1
+        },
+        {
+          "red": 0.686,
+          "green": 0.322,
+          "blue": 0.871,
+          "opacity": 1
+        }
       ],
       "sheets": [
-        { "id": "StarryNightSheet1", "name": "Starry Night 1", "file": "assets/packs/starrynight/StarryNightSheet1.enc" },
-        { "id": "StarryNightSheet2", "name": "Starry Night 2", "file": "assets/packs/starrynight/StarryNightSheet2.enc" },
-        { "id": "StarryNightSheet3", "name": "Starry Night 3", "file": "assets/packs/starrynight/StarryNightSheet3.enc" },
-        { "id": "StarryNightSheet4", "name": "Starry Night 4", "file": "assets/packs/starrynight/StarryNightSheet4.enc" }
-      ]
+        {
+          "id": "StarryNightSheet1",
+          "name": "Starry Night 1",
+          "file": "assets/packs/starrynight/StarryNightSheet1.enc",
+          "hash": "c0b32bbd34c18112b19fd16f4a5aa6861aefe400434cdb82354ef17edba5cca0"
+        },
+        {
+          "id": "StarryNightSheet2",
+          "name": "Starry Night 2",
+          "file": "assets/packs/starrynight/StarryNightSheet2.enc",
+          "hash": "9cd087c295475d56707330d895fc24a12867465ae5f7cf7ff49bb18e2f719813"
+        },
+        {
+          "id": "StarryNightSheet3",
+          "name": "Starry Night 3",
+          "file": "assets/packs/starrynight/StarryNightSheet3.enc",
+          "hash": "1447c54b101f6f160afebf35b069377ff9f2df7737661e9b5b79d100ccb632ae"
+        },
+        {
+          "id": "StarryNightSheet4",
+          "name": "Starry Night 4",
+          "file": "assets/packs/starrynight/StarryNightSheet4.enc",
+          "hash": "64c64978c9eac20fe74a8bee9133365c5fa35fce1c4fcef33e13168c5203f4ca"
+        }
+      ],
+      "coverHash": "fad7401f6d02d2fad051a9f5ef3a44b137885850c8d9a393f267d79474702303"
     }
   ],
   "freeDrops": [
@@ -148,8 +444,18 @@
       "name": "Summer Friends",
       "availableFrom": "2026-07-01T00:00:00Z",
       "sheets": [
-        { "id": "free-2026-07-buzzy-meadow", "name": "Buzzy Meadow", "file": "assets/free/2026-07/buzzy-meadow.enc" },
-        { "id": "free-2026-07-picnic-day", "name": "Picnic Day", "file": "assets/free/2026-07/picnic-day.enc" }
+        {
+          "id": "free-2026-07-buzzy-meadow",
+          "name": "Buzzy Meadow",
+          "file": "assets/free/2026-07/buzzy-meadow.enc",
+          "hash": "61772a2fe24dc2991bb588fabf44f2b08b1b14cc2b77792bc9c8e56fa094db04"
+        },
+        {
+          "id": "free-2026-07-picnic-day",
+          "name": "Picnic Day",
+          "file": "assets/free/2026-07/picnic-day.enc",
+          "hash": "17dbaa05c2353316844d2d3737a4c5db45a3d6f5e896c676954f5d9707f6ccad"
+        }
       ]
     },
     {
@@ -157,8 +463,18 @@
       "name": "Beach Day",
       "availableFrom": "2026-08-01T00:00:00Z",
       "sheets": [
-        { "id": "free-2026-08-sandcastle", "name": "Sandcastle", "file": "assets/free/2026-08/sandcastle.enc" },
-        { "id": "free-2026-08-tide-pool", "name": "Tide Pool", "file": "assets/free/2026-08/tide-pool.enc" }
+        {
+          "id": "free-2026-08-sandcastle",
+          "name": "Sandcastle",
+          "file": "assets/free/2026-08/sandcastle.enc",
+          "hash": "745526d14a3d085b06bfdce6aafa2959523bc882bf61a671214a0c35ce41b73b"
+        },
+        {
+          "id": "free-2026-08-tide-pool",
+          "name": "Tide Pool",
+          "file": "assets/free/2026-08/tide-pool.enc",
+          "hash": "4801c6c43abfcd74e980c430b499f7d6e6a1d4ea1c540b441eed8541c48ebed1"
+        }
       ]
     }
   ]
