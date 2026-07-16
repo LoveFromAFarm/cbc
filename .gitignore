@@ -1,6 +1,7 @@
 # The content encryption key must NEVER be committed — this repo is public.
 key.hex
 encrypt.swift
+encrypt_all.swift
 
 # Plaintext artwork stays local; only encrypted assets/ ship.
 art/
