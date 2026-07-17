@@ -477,6 +477,25 @@
       ]
     },
     {
+      "id": "2026-07-17",
+      "name": "Summer Fun",
+      "availableFrom": "2026-07-01T00:00:00Z",
+      "sheets": [
+        {
+          "id": "DinoDaysSheet1",
+          "name": "Dino Days 1",
+          "file": "assets/packs/dinodays/DinoDaysSheet1.enc",
+          "hash": "a0dcc8efbf01d12584ce6155debfb5e721218ef9114e13cbdc7d068b67960239"
+        },
+        {
+          "id": "BusyBugsSheet1",
+          "name": "Busy Bugs 1",
+          "file": "assets/packs/busybugs/BusyBugsSheet1.enc",
+          "hash": "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d"
+        }
+      ]
+    },
+    {
       "id": "2026-08",
       "name": "Beach Day",
       "availableFrom": "2026-08-01T00:00:00Z",
