@@ -339,8 +339,7 @@
       "coverAlignment": "top",
       "tagline": "Gentle dinosaurs with lots of little details.",
       "tags": [
-        "advanced",
-        "nature"
+        "fun"
       ],
       "productId": "com.colorbee.sheets.dinodays",
       "cover": "assets/covers/dinodays.enc",
@@ -385,19 +384,19 @@
         },
         {
           "id": "DinoDaysSheet5",
-          "name": "Dino Days Sheet 5",
+          "name": "Dino Days 5",
           "file": "assets/packs/dinodays/DinoDaysSheet5.enc",
           "hash": "5d9a233f6295e49495d876fd758e8f14ce1b7e3c98e3677a7f57041b7803c4ee"
         },
         {
           "id": "DinoDaysSheet6",
-          "name": "Dino Days Sheet 6",
+          "name": "Dino Days 6",
           "file": "assets/packs/dinodays/DinoDaysSheet6.enc",
           "hash": "23b0322ef8e1140b15168d0b4e880cf856b11f2221f357163ea9f5ca88b2ef6d"
         },
         {
           "id": "DinoDaysSheet7",
-          "name": "Dino Days Sheet 7",
+          "name": "Dino Days 7",
           "file": "assets/packs/dinodays/DinoDaysSheet7.enc",
           "hash": "22a5b620588d4fbeaefa6f981833896e684080e4d1b4a0622f29fbdfb8113fe8"
         }
