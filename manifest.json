@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "copyright": "© 2026 Otte Crew. All rights reserved. These images are licensed for use only within the ColorBee app.",
+  "copyright": "© 2026 Freely Bee LLC. All rights reserved. These images are licensed for use only within the ColorBee app.",
   "featured": [
     "com.colorbee.keeper.ocean",
     "com.colorbee.sheets.busybugs",
@@ -382,6 +382,24 @@
           "name": "Dino Days 4",
           "file": "assets/packs/dinodays/DinoDaysSheet4.enc",
           "hash": "9d8a6358cffe8ede21680dd8e3f90bcc963dd0728f3c80b726eadc7f9ad46ac2"
+        },
+        {
+          "id": "DinoDaysSheet5",
+          "name": "Dino Days Sheet 5",
+          "file": "assets/packs/dinodays/DinoDaysSheet5.enc",
+          "hash": "5d9a233f6295e49495d876fd758e8f14ce1b7e3c98e3677a7f57041b7803c4ee"
+        },
+        {
+          "id": "DinoDaysSheet6",
+          "name": "Dino Days Sheet 6",
+          "file": "assets/packs/dinodays/DinoDaysSheet6.enc",
+          "hash": "23b0322ef8e1140b15168d0b4e880cf856b11f2221f357163ea9f5ca88b2ef6d"
+        },
+        {
+          "id": "DinoDaysSheet7",
+          "name": "Dino Days Sheet 7",
+          "file": "assets/packs/dinodays/DinoDaysSheet7.enc",
+          "hash": "22a5b620588d4fbeaefa6f981833896e684080e4d1b4a0622f29fbdfb8113fe8"
         }
       ],
       "coverHash": "dfb5f29a3d040677456f63a29f2a8b2bbcabc682d4c8fd926a0cf2bcd5a0515c"
