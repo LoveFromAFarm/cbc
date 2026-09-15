@@ -667,12 +667,13 @@
           "red" : 0.686
         }
       ],
-      "cover" : "assets/covers/starrynight.enc",
-      "coverHash" : "fad7401f6d02d2fad051a9f5ef3a44b137885850c8d9a393f267d79474702303",
+      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_55-PM--2--20260915T005532416Z-e1c1d4bc-4027-4786-be47-792f839365a1.enc",
+      "coverHash" : "3d219fa68cd4f9b900adcb56254d4d6b0788a8abb97b6ee216466bf59852f550",
+      "coverUploadedAt" : "2026-09-15T00:55:32Z",
       "id" : "starrynight",
       "name" : "Starry Night",
       "productId" : "com.colorbee.sheets.starrynight",
-      "sheets" : [
+      "retiredSheets" : [
         {
           "file" : "assets/packs/starrynight/StarryNightSheet1.enc",
           "hash" : "c0b32bbd34c18112b19fd16f4a5aa6861aefe400434cdb82354ef17edba5cca0",
@@ -696,6 +697,72 @@
           "hash" : "64c64978c9eac20fe74a8bee9133365c5fa35fce1c4fcef33e13168c5203f4ca",
           "id" : "StarryNightSheet4",
           "name" : "Starry Night 4"
+        }
+      ],
+      "sheets" : [
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--1--20260915T005551500Z-437d8d2a-b0e0-47fc-82cd-659695b04d39.enc",
+          "hash" : "50e16907f7be9a70fbdb31015582d37978c85d283514f3584527bd123f115337",
+          "id" : "b5496f3a-aa07-4c5c-8173-a1da580137e5",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (1)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (1).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--2--20260915T005551503Z-af4a5572-8127-46a4-9743-5020958fd802.enc",
+          "hash" : "9b6d188f844a349f9930acd7f066f0a8f1c309c9c7a8e71e37d2b2b1c2a7ecbe",
+          "id" : "eda39f64-f129-405b-a941-aa303d1c5cb7",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (2)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (2).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--3--20260915T005551505Z-37137fc4-569e-42b4-9d89-b2a95a569562.enc",
+          "hash" : "d2d81db613eab7a4a59ed8fae0f3b35de423641cf77f24886b45f1409c2a7c70",
+          "id" : "2acd5f2e-b8ed-47e4-acb5-f937b3f6e889",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (3)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (3).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--4--20260915T005551507Z-97c77a7f-ad8a-441e-94b8-27965b59ad70.enc",
+          "hash" : "41047c1a8548574ae61832fd326a515bd72c51ff9fc5e814d3993ec192e82c04",
+          "id" : "3e291b95-beb9-49bf-8b41-eab453f84558",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (4)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (4).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--5--20260915T005551510Z-ffa9180a-f477-4933-9221-4f3ef031b5c4.enc",
+          "hash" : "3dfadc945ad3849b8fe84ca8a474471c9a4c39adb983025f6825bc7b5d307dde",
+          "id" : "0a401a42-ea73-48cb-a2be-751b20b2db59",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (5)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (5).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--6--20260915T005551512Z-60ca3f1f-be36-484f-bfcd-0cebdd78e6f8.enc",
+          "hash" : "ddff5891c1715a0239efe4eeaf0f9f02d89ec0bbe2e3192f9a04cc6cde742105",
+          "id" : "de0104c2-1a02-479e-8ae0-17fa692e3847",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (6)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (6).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--7--20260915T005551514Z-c61ed2c8-ef01-4cd3-9be9-2aa51352ae69.enc",
+          "hash" : "f205848e7bafea1149c9a38f13437ff752c7f3b58e99671522093bf74a4793ea",
+          "id" : "d51e03b6-b025-424c-a741-5eb74a600fca",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (7)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (7).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--8--20260915T005551517Z-a0e20c4d-d22e-4fbc-8c41-9c0560c07bf0.enc",
+          "hash" : "1d9faf2b14f88de880efc7c594a2e1fb867c7332077062c51d3e115fdfe87178",
+          "id" : "b14f4b7f-dc6e-41b0-9aa0-2bd6fb986e4c",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (8)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (8).png",
+          "uploadedAt" : "2026-09-15T00:55:51Z"
         }
       ],
       "tagline" : "Moons, rockets, and sleepy skies to wind down with.",
