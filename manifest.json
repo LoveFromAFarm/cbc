@@ -139,6 +139,7 @@
       ]
     },
     {
+      "availableFrom" : "2026-09-15T00:43:47Z",
       "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--11_07_56-PM-20260915T004209366Z-48991786-ee08-4cc7-a7da-91cea3013da3.enc",
       "coverHash" : "677cc6bde6ea265b51d381a3b1b894dac30f672e03fdfd7e2e7b838fef29c095",
       "coverUploadedAt" : "2026-09-15T00:42:09Z",
@@ -187,7 +188,7 @@
           "type" : "patternBrush"
         }
       ],
-      "name" : "Sunset",
+      "name" : "Sunset Set",
       "productId" : "com.colorbee.keeper.sunset",
       "retiredSheets" : [
         {
