@@ -68,8 +68,9 @@
   ],
   "keepers" : [
     {
-      "cover" : "assets/covers/ocean.enc",
-      "coverHash" : "bc1816a9089d4afc5c6aa1448bd47a233d687bd0236332734a89977e51f943a7",
+      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_56-PM--3--20260915T004539999Z-564d2314-699f-4b6c-835a-0a815270224f.enc",
+      "coverHash" : "22aded2dc2cc0f2832edea4fd087842345976ebbdf13388af78281ee80d7e005",
+      "coverUploadedAt" : "2026-09-15T00:45:40Z",
       "id" : "ocean",
       "instruments" : [
         {
@@ -117,7 +118,7 @@
       ],
       "name" : "Ocean Set",
       "productId" : "com.colorbee.keeper.ocean",
-      "sheets" : [
+      "retiredSheets" : [
         {
           "file" : "assets/packs/ocean/OceanSheet1.enc",
           "hash" : "6872438a6079616a6f78c2ffb49a7665a2131f139ac2a6ce55206c87057eab56",
@@ -129,6 +130,72 @@
           "hash" : "a01b6a6971fdec01498540234caeba0d2b52dea30b363af1d104200c42670750",
           "id" : "OceanSheet2",
           "name" : "Ocean Sheet 2"
+        }
+      ],
+      "sheets" : [
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_19-PM--1--20260915T004557071Z-f97fd86d-e2d5-4c43-b539-e277e05fc450.enc",
+          "hash" : "b5e009c2619cb438b07567287b9993f110c44190e8e75d986a559b84a280b39e",
+          "id" : "1fe3efaa-f232-44ff-a49b-aea56e8b7f6f",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (1)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (1).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_19-PM--2--20260915T004557074Z-69a8f6b3-a6ae-41ed-8070-852e214e93b7.enc",
+          "hash" : "1f252100498820ac7be49b1ea12c35adff3c5c365983a2850badfeb5dcff4156",
+          "id" : "dc3fae04-1ff6-40b0-9030-916442e7f349",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (2)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (2).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_19-PM--3--20260915T004557076Z-eb06e276-32a5-472e-9e2f-f7b4a433de8e.enc",
+          "hash" : "6d521b9407e4ef69eaa5a24bebec854e8b3667981330146401dac3c886fbc7bd",
+          "id" : "34310707-a75a-46e6-8e1c-b4131585cf30",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (3)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (3).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_20-PM--4--20260915T004557079Z-ba2a7b61-00b6-4835-9d45-3a2f05003e55.enc",
+          "hash" : "b5bc41b5b66d477c99667bce41ede24de9a5b28e84e15122ebfeebf969d3a9c9",
+          "id" : "42897b35-1cc8-41f0-844a-551decf98ef0",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_20 PM (4)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_20 PM (4).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_20-PM--5--20260915T004557082Z-698cff69-e7f5-48ef-8d0e-c673b16ae3fb.enc",
+          "hash" : "d1577bcb2b66a0e8945e355d5a7de0f5166583e642cd07b2d0c639de0d95c893",
+          "id" : "ff7e7868-5642-4e91-bf09-1b8459948ac7",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_20 PM (5)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_20 PM (5).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_21-PM--6--20260915T004557085Z-6bad1c83-171b-49d7-866c-641f44a2c360.enc",
+          "hash" : "c3f434e23d938e4943dbe21c35743a73575b955faa3ca03e1afa628b4d09165d",
+          "id" : "5c562b8c-dbc9-4db5-8785-db548f7a172a",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (6)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (6).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_21-PM--7--20260915T004557087Z-57e396cb-c188-4f4c-a8cf-009fd731ab0c.enc",
+          "hash" : "4732a52d3be4bc1ef8085afa703844bb41397d56b9ea26bfa9353cc466c0465b",
+          "id" : "fc0c5e16-e8a7-461b-b483-cbf277527f34",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (7)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (7).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_21-PM--8--20260915T004557090Z-f94e2096-5de9-4bff-b9f4-0dae748453b6.enc",
+          "hash" : "0b64731e1c65069d22850b754b59649af35c3c7bd7cf2714d6d67ac9f95e123b",
+          "id" : "a06fba89-9961-43df-bbe2-bb5134097e92",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (8)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (8).png",
+          "uploadedAt" : "2026-09-15T00:45:57Z"
         }
       ],
       "tagline" : "Cool blues and a drifting wave pattern.",
