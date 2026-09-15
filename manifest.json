@@ -298,6 +298,7 @@
         }
       ],
       "cover" : "assets/covers/120e7878-fb73-4b95-bd06-168ce56671de.enc",
+      "coverAlignment" : "top",
       "coverHash" : "c84da45a32a7325fabf6362131b38c150d15420cc1f4864d7882fcab744dafda",
       "id" : "firstshapes",
       "name" : "First Shapes",
