@@ -139,8 +139,9 @@
       ]
     },
     {
-      "cover" : "assets/covers/sunset.enc",
-      "coverHash" : "b88f80f1da8df37bfa4037ae1e3d7d2417fe38593a5e240353844f74db5ca98f",
+      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--11_07_56-PM-20260915T004209366Z-48991786-ee08-4cc7-a7da-91cea3013da3.enc",
+      "coverHash" : "677cc6bde6ea265b51d381a3b1b894dac30f672e03fdfd7e2e7b838fef29c095",
+      "coverUploadedAt" : "2026-09-15T00:42:09Z",
       "id" : "sunset",
       "instruments" : [
         {
@@ -186,9 +187,9 @@
           "type" : "patternBrush"
         }
       ],
-      "name" : "Sunset Set",
+      "name" : "Sunset",
       "productId" : "com.colorbee.keeper.sunset",
-      "sheets" : [
+      "retiredSheets" : [
         {
           "file" : "assets/packs/sunset/SunsetSheet1.enc",
           "hash" : "710a002fd60a54e7d47830c07b8a32161854fddf5630ae36c468deee9bc824ab",
@@ -200,6 +201,72 @@
           "hash" : "85ac1e5222191d5b30bb2a3d16fb7bc3d9e1e7ba349d6a9c47603312b0ac1354",
           "id" : "SunsetSheet2",
           "name" : "Sunset Sheet 2"
+        }
+      ],
+      "sheets" : [
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_03-PM-20260915T004232278Z-73e92bbc-817e-4448-b38e-acbf16fb328e.enc",
+          "hash" : "bb86eb0eb2db02378469d9f6dc69c20fa20ea0758e41b1bede1d5587ba5bbecc",
+          "id" : "84f1ea89-5cc4-4bdb-8dd5-f5cfa379f0a8",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_03 PM",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_03 PM.png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_10-PM--1--20260915T004232280Z-79614990-22e8-4a01-95ec-9fdcbab9f6df.enc",
+          "hash" : "cc860f7b9e5c951be1b07ce89f92ad3dd5c19e358172dc03042579e919eaf103",
+          "id" : "f11e19a0-7b6e-4208-b77b-52276a95138a",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (1)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (1).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_10-PM--2--20260915T004232282Z-dc6937f3-d64b-476e-a1e3-f4bdc1889bf1.enc",
+          "hash" : "e426a9e0883008b5a833cc0a995b3759c9fa41d7dffb8eb31b408b1fadd4e739",
+          "id" : "385ddbe8-1808-43ca-a0e9-8dfb0885200f",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (2)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (2).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_10-PM--3--20260915T004232284Z-15ac0c1f-4cc8-471d-a186-7810e538b898.enc",
+          "hash" : "2c8295bc17efecff70c83bcd7d9da3414db03185b03b698f73d260891b80856c",
+          "id" : "39e42c5d-2a5e-4ac8-9c0e-50ab6e732d42",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (3)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (3).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--5--20260915T004232288Z-d8d483fd-e9f5-4ac7-943a-23520a99ca48.enc",
+          "hash" : "0298ab25a9ee77a7c917f1083620910817252f6517de2e93cd6cd548dab54193",
+          "id" : "cb31cbd5-b6ac-4a5c-9221-7359a1cb12c1",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (5)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (5).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--6--20260915T004232290Z-fe550e12-ce89-4ac7-a98e-1dffe2752b2b.enc",
+          "hash" : "8a5968c15d7ae69c7ec93b0bce879a507fb8a00bc85a24f6532e6bef4a5898c3",
+          "id" : "64acefd2-303f-49e8-9583-c80b8d93aab9",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (6)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (6).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--7--20260915T004232292Z-23df764f-c4cd-42e0-8de0-23cb69c98678.enc",
+          "hash" : "5268da3c7252c6de8f8dd761c1a5141741f85c152b69a6eec77ae5e81e0a434f",
+          "id" : "78368720-4338-4867-9916-2fb21804a52f",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (7)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (7).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--8--20260915T004232293Z-8521c786-f099-4227-a84b-65f679fd618f.enc",
+          "hash" : "f2985eebf4a55e4f38de8c6429bc76d6cbccfe0d1e857c4348ec6eb931e794f5",
+          "id" : "635c12ef-0660-412d-aab3-e07586c16094",
+          "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (8)",
+          "sourceFilename" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (8).png",
+          "uploadedAt" : "2026-09-15T00:42:32Z"
         }
       ],
       "tagline" : "Warm golden colors with a twinkling sunburst.",
