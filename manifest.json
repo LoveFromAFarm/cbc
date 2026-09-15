@@ -661,9 +661,10 @@
           "red" : 0.19
         }
       ],
-      "cover" : "assets/covers/dinodays.enc",
+      "cover" : "assets/covers/ChatGPT-Image-Sep-14--2026--09_30_49-PM--2--20260915T013113233Z-e63d0648-252e-47f5-93dd-b7198f0a0e98.enc",
       "coverAlignment" : "top",
-      "coverHash" : "dfb5f29a3d040677456f63a29f2a8b2bbcabc682d4c8fd926a0cf2bcd5a0515c",
+      "coverHash" : "e988dbcd9fb76e1e28e1e7ba036851126704d534c770c4bb72b2e4f1c6033a3e",
+      "coverUploadedAt" : "2026-09-15T01:31:13Z",
       "id" : "dinodays",
       "name" : "Dino Days",
       "productId" : "com.colorbee.sheets.dinodays",
