@@ -609,18 +609,13 @@
           "red" : 1
         }
       ],
-      "cover" : "assets/covers/busybugs.enc",
-      "coverHash" : "0f2344bc242371ad1d9de3c344ea738f020220489352afb2b33a43204e8ff494",
+      "cover" : "assets/covers/ChatGPT-Image-Sep-14--2026--09_30_49-PM--1--20260915T013635275Z-0b2b90f3-3dd9-4237-97d1-6094b045d918.enc",
+      "coverHash" : "d68f3cc33363d375d02f80fa734690d33d6538f650504f872517020e018007e2",
+      "coverUploadedAt" : "2026-09-15T01:36:35Z",
       "id" : "busybugs",
       "name" : "Busy Bugs",
       "productId" : "com.colorbee.sheets.busybugs",
-      "sheets" : [
-        {
-          "file" : "assets/packs/busybugs/BusyBugsSheet1.enc",
-          "hash" : "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d",
-          "id" : "BusyBugsSheet1",
-          "name" : "Busy Bugs 1"
-        },
+      "retiredSheets" : [
         {
           "file" : "assets/packs/busybugs/BusyBugsSheet2.enc",
           "hash" : "440911925a29d8ad27ceed715b8e292c5b35e8c05fa91a862820ba0a3caadd71",
@@ -638,6 +633,46 @@
           "hash" : "7143250bb116332257616e52d4c883b957b4a59bfd9792e89629d996b464acc0",
           "id" : "BusyBugsSheet4",
           "name" : "Busy Bugs 4"
+        }
+      ],
+      "sheets" : [
+        {
+          "file" : "assets/packs/busybugs/BusyBugsSheet1.enc",
+          "hash" : "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d",
+          "id" : "BusyBugsSheet1",
+          "name" : "Busy Bugs 1"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--7--20260915T013650230Z-08a43248-7bf8-4339-91c3-3b3866d0ecbc.enc",
+          "hash" : "99e9ff93aa5c752e6961cb0782771f63f9645520ff33e7eeb11211324dad4e12",
+          "id" : "4c9605ef-a83a-4078-b385-238267150b28",
+          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (7)",
+          "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (7).png",
+          "uploadedAt" : "2026-09-15T01:36:50Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--8--20260915T013650233Z-4aeaf33e-efbb-4ca6-ad7b-7e270e286a09.enc",
+          "hash" : "b972eb3986248964f6f00833be342e7cf6016076d639a35fda5c59cd84922db2",
+          "id" : "5c7368ba-aa10-46c1-b6ac-693a6ef45529",
+          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (8)",
+          "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (8).png",
+          "uploadedAt" : "2026-09-15T01:36:50Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--9--20260915T013650236Z-4421e283-66b3-42b2-abc8-57eb517b51a9.enc",
+          "hash" : "48a3a285fe243dc52c9d94666a4f0c50189d89522a75ce187e18fe8e798f9976",
+          "id" : "45b4fa16-5234-4319-819e-3e54449839be",
+          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (9)",
+          "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (9).png",
+          "uploadedAt" : "2026-09-15T01:36:50Z"
+        },
+        {
+          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--10--20260915T013650238Z-66d92ce5-bca6-4fb2-b7db-162abb1ee3e9.enc",
+          "hash" : "54593e25cc07c5e47d9f9e6c87203dee9aa7628c3c46cee1d570f20b39c14ab7",
+          "id" : "0e923c43-5ca1-4139-a411-480de539173d",
+          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (10)",
+          "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (10).png",
+          "uploadedAt" : "2026-09-15T01:36:50Z"
         }
       ],
       "tagline" : "Friendly bees, butterflies, and garden crawlers.",
