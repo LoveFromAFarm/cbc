@@ -69,6 +69,7 @@
   "keepers" : [
     {
       "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_56-PM--3--20260915T004539999Z-564d2314-699f-4b6c-835a-0a815270224f.enc",
+      "coverAlignment" : "top",
       "coverHash" : "22aded2dc2cc0f2832edea4fd087842345976ebbdf13388af78281ee80d7e005",
       "coverUploadedAt" : "2026-09-15T00:45:40Z",
       "id" : "ocean",
@@ -346,6 +347,7 @@
     },
     {
       "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_56-PM--5--20260915T005933171Z-e6fe1d98-a532-4524-906f-c0a28e78381d.enc",
+      "coverAlignment" : "top",
       "coverHash" : "1d34a73f08b33661a61f105414b2d4e6e27a50d5a7d8a5136a74953308ac51a8",
       "coverUploadedAt" : "2026-09-15T00:59:33Z",
       "id" : "forest",
@@ -610,6 +612,7 @@
         }
       ],
       "cover" : "assets/covers/ChatGPT-Image-Sep-14--2026--09_30_49-PM--1--20260915T013635275Z-0b2b90f3-3dd9-4237-97d1-6094b045d918.enc",
+      "coverAlignment" : "top",
       "coverHash" : "d68f3cc33363d375d02f80fa734690d33d6538f650504f872517020e018007e2",
       "coverUploadedAt" : "2026-09-15T01:36:35Z",
       "id" : "busybugs",
@@ -771,6 +774,7 @@
         }
       ],
       "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_55-PM--2--20260915T005532416Z-e1c1d4bc-4027-4786-be47-792f839365a1.enc",
+      "coverAlignment" : "top",
       "coverHash" : "3d219fa68cd4f9b900adcb56254d4d6b0788a8abb97b6ee216466bf59852f550",
       "coverUploadedAt" : "2026-09-15T00:55:32Z",
       "id" : "starrynight",
