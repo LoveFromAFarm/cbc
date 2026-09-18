@@ -14,13 +14,13 @@
       "name" : "Summer Friends",
       "sheets" : [
         {
-          "file" : "assets/free/2026-07/buzzy-meadow.enc",
+          "file" : "assets/free/2026-07/23e91ac1-279a-401b-a623-ba7b525776b6.enc",
           "hash" : "61772a2fe24dc2991bb588fabf44f2b08b1b14cc2b77792bc9c8e56fa094db04",
           "id" : "free-2026-07-buzzy-meadow",
           "name" : "Buzzy Meadow"
         },
         {
-          "file" : "assets/free/2026-07/picnic-day.enc",
+          "file" : "assets/free/2026-07/a7e932bd-33ca-4474-86f4-8ea15ce784f5.enc",
           "hash" : "17dbaa05c2353316844d2d3737a4c5db45a3d6f5e896c676954f5d9707f6ccad",
           "id" : "free-2026-07-picnic-day",
           "name" : "Picnic Day"
@@ -33,13 +33,13 @@
       "name" : "Summer Fun",
       "sheets" : [
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet1.enc",
+          "file" : "assets/packs/dinodays/3dd3ced7-36e9-4f96-8946-e3ffacd7176a.enc",
           "hash" : "a0dcc8efbf01d12584ce6155debfb5e721218ef9114e13cbdc7d068b67960239",
           "id" : "DinoDaysSheet1",
           "name" : "Dino Days 1"
         },
         {
-          "file" : "assets/packs/busybugs/BusyBugsSheet1.enc",
+          "file" : "assets/packs/busybugs/f3346039-39a1-4e24-9cd2-92f34bd1e7c9.enc",
           "hash" : "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d",
           "id" : "BusyBugsSheet1",
           "name" : "Busy Bugs 1"
@@ -52,13 +52,13 @@
       "name" : "Beach Day",
       "sheets" : [
         {
-          "file" : "assets/free/2026-08/sandcastle.enc",
+          "file" : "assets/free/2026-08/f35b6b80-4395-4ecd-ad9a-e92d3f9eaa43.enc",
           "hash" : "745526d14a3d085b06bfdce6aafa2959523bc882bf61a671214a0c35ce41b73b",
           "id" : "free-2026-08-sandcastle",
           "name" : "Sandcastle"
         },
         {
-          "file" : "assets/free/2026-08/tide-pool.enc",
+          "file" : "assets/free/2026-08/e1a56535-59ce-40fa-b8fb-0098556c24a2.enc",
           "hash" : "4801c6c43abfcd74e980c430b499f7d6e6a1d4ea1c540b441eed8541c48ebed1",
           "id" : "free-2026-08-tide-pool",
           "name" : "Tide Pool"
@@ -68,7 +68,7 @@
   ],
   "keepers" : [
     {
-      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_56-PM--3--20260915T004539999Z-564d2314-699f-4b6c-835a-0a815270224f.enc",
+      "cover" : "assets/covers/28398678-d0f1-4aaf-914f-9a638edc1995.enc",
       "coverAlignment" : "top",
       "coverHash" : "22aded2dc2cc0f2832edea4fd087842345976ebbdf13388af78281ee80d7e005",
       "coverUploadedAt" : "2026-09-15T00:45:40Z",
@@ -121,13 +121,13 @@
       "productId" : "com.colorbee.keeper.ocean",
       "retiredSheets" : [
         {
-          "file" : "assets/packs/ocean/OceanSheet1.enc",
+          "file" : "assets/packs/ocean/bdc53ed0-9d97-4e32-b694-7b8bc54163c9.enc",
           "hash" : "6872438a6079616a6f78c2ffb49a7665a2131f139ac2a6ce55206c87057eab56",
           "id" : "OceanSheet1",
           "name" : "Ocean Sheet 1"
         },
         {
-          "file" : "assets/packs/ocean/OceanSheet2.enc",
+          "file" : "assets/packs/ocean/b8230246-a4f6-4fff-aa66-8fadba72341c.enc",
           "hash" : "a01b6a6971fdec01498540234caeba0d2b52dea30b363af1d104200c42670750",
           "id" : "OceanSheet2",
           "name" : "Ocean Sheet 2"
@@ -135,7 +135,7 @@
       ],
       "sheets" : [
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_19-PM--1--20260915T004557071Z-f97fd86d-e2d5-4c43-b539-e277e05fc450.enc",
+          "file" : "assets/sheets/064e6f46-edc4-482f-8d17-445d2f8c747b.enc",
           "hash" : "b5e009c2619cb438b07567287b9993f110c44190e8e75d986a559b84a280b39e",
           "id" : "1fe3efaa-f232-44ff-a49b-aea56e8b7f6f",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (1)",
@@ -143,7 +143,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_19-PM--2--20260915T004557074Z-69a8f6b3-a6ae-41ed-8070-852e214e93b7.enc",
+          "file" : "assets/sheets/0b1a8b9b-a1a7-4ef0-8d72-c3424f6b1bea.enc",
           "hash" : "1f252100498820ac7be49b1ea12c35adff3c5c365983a2850badfeb5dcff4156",
           "id" : "dc3fae04-1ff6-40b0-9030-916442e7f349",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (2)",
@@ -151,7 +151,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_19-PM--3--20260915T004557076Z-eb06e276-32a5-472e-9e2f-f7b4a433de8e.enc",
+          "file" : "assets/sheets/434b46c8-ffac-4431-af0d-0ed03a95e4ec.enc",
           "hash" : "6d521b9407e4ef69eaa5a24bebec854e8b3667981330146401dac3c886fbc7bd",
           "id" : "34310707-a75a-46e6-8e1c-b4131585cf30",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_19 PM (3)",
@@ -159,7 +159,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_20-PM--4--20260915T004557079Z-ba2a7b61-00b6-4835-9d45-3a2f05003e55.enc",
+          "file" : "assets/sheets/b4be2723-bc30-4929-be5b-682184c0da84.enc",
           "hash" : "b5bc41b5b66d477c99667bce41ede24de9a5b28e84e15122ebfeebf969d3a9c9",
           "id" : "42897b35-1cc8-41f0-844a-551decf98ef0",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_20 PM (4)",
@@ -167,7 +167,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_20-PM--5--20260915T004557082Z-698cff69-e7f5-48ef-8d0e-c673b16ae3fb.enc",
+          "file" : "assets/sheets/32470424-6d85-4871-9fa0-e387ab3a08ed.enc",
           "hash" : "d1577bcb2b66a0e8945e355d5a7de0f5166583e642cd07b2d0c639de0d95c893",
           "id" : "ff7e7868-5642-4e91-bf09-1b8459948ac7",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_20 PM (5)",
@@ -175,7 +175,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_21-PM--6--20260915T004557085Z-6bad1c83-171b-49d7-866c-641f44a2c360.enc",
+          "file" : "assets/sheets/1efbaa54-5060-4633-90d8-bdbebf00b3d2.enc",
           "hash" : "c3f434e23d938e4943dbe21c35743a73575b955faa3ca03e1afa628b4d09165d",
           "id" : "5c562b8c-dbc9-4db5-8785-db548f7a172a",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (6)",
@@ -183,7 +183,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_21-PM--7--20260915T004557087Z-57e396cb-c188-4f4c-a8cf-009fd731ab0c.enc",
+          "file" : "assets/sheets/a1a0c254-6c0f-4580-8c3b-562daed82782.enc",
           "hash" : "4732a52d3be4bc1ef8085afa703844bb41397d56b9ea26bfa9353cc466c0465b",
           "id" : "fc0c5e16-e8a7-461b-b483-cbf277527f34",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (7)",
@@ -191,7 +191,7 @@
           "uploadedAt" : "2026-09-15T00:45:57Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_30_21-PM--8--20260915T004557090Z-f94e2096-5de9-4bff-b9f4-0dae748453b6.enc",
+          "file" : "assets/sheets/739ec7e9-5c23-4648-a5cd-15dec78869d2.enc",
           "hash" : "0b64731e1c65069d22850b754b59649af35c3c7bd7cf2714d6d67ac9f95e123b",
           "id" : "a06fba89-9961-43df-bbe2-bb5134097e92",
           "name" : "ChatGPT Image Sep 13, 2026, 11_30_21 PM (8)",
@@ -208,7 +208,7 @@
     },
     {
       "availableFrom" : "2026-09-15T00:43:47Z",
-      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--11_07_56-PM-20260915T004209366Z-48991786-ee08-4cc7-a7da-91cea3013da3.enc",
+      "cover" : "assets/covers/54ea193a-8fd2-4692-877a-c00e490e5ab8.enc",
       "coverAlignment" : "top",
       "coverHash" : "677cc6bde6ea265b51d381a3b1b894dac30f672e03fdfd7e2e7b838fef29c095",
       "coverUploadedAt" : "2026-09-15T00:42:09Z",
@@ -261,13 +261,13 @@
       "productId" : "com.colorbee.keeper.sunset",
       "retiredSheets" : [
         {
-          "file" : "assets/packs/sunset/SunsetSheet1.enc",
+          "file" : "assets/packs/sunset/dd9b21bb-93e1-407b-9bcc-cb49452a7335.enc",
           "hash" : "710a002fd60a54e7d47830c07b8a32161854fddf5630ae36c468deee9bc824ab",
           "id" : "SunsetSheet1",
           "name" : "Sunset Sheet 1"
         },
         {
-          "file" : "assets/packs/sunset/SunsetSheet2.enc",
+          "file" : "assets/packs/sunset/d65a591e-ffe0-451b-a124-6ec8ae56ebdc.enc",
           "hash" : "85ac1e5222191d5b30bb2a3d16fb7bc3d9e1e7ba349d6a9c47603312b0ac1354",
           "id" : "SunsetSheet2",
           "name" : "Sunset Sheet 2"
@@ -275,7 +275,7 @@
       ],
       "sheets" : [
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_03-PM-20260915T004232278Z-73e92bbc-817e-4448-b38e-acbf16fb328e.enc",
+          "file" : "assets/sheets/132c7c7d-9a4b-4bb3-8ac6-087cd0e63b01.enc",
           "hash" : "bb86eb0eb2db02378469d9f6dc69c20fa20ea0758e41b1bede1d5587ba5bbecc",
           "id" : "84f1ea89-5cc4-4bdb-8dd5-f5cfa379f0a8",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_03 PM",
@@ -283,7 +283,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_10-PM--1--20260915T004232280Z-79614990-22e8-4a01-95ec-9fdcbab9f6df.enc",
+          "file" : "assets/sheets/7adcb9b0-f025-46b6-988d-bae049090fc4.enc",
           "hash" : "cc860f7b9e5c951be1b07ce89f92ad3dd5c19e358172dc03042579e919eaf103",
           "id" : "f11e19a0-7b6e-4208-b77b-52276a95138a",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (1)",
@@ -291,7 +291,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_10-PM--2--20260915T004232282Z-dc6937f3-d64b-476e-a1e3-f4bdc1889bf1.enc",
+          "file" : "assets/sheets/461e42f5-3213-4415-9b9f-1a6770f333d6.enc",
           "hash" : "e426a9e0883008b5a833cc0a995b3759c9fa41d7dffb8eb31b408b1fadd4e739",
           "id" : "385ddbe8-1808-43ca-a0e9-8dfb0885200f",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (2)",
@@ -299,7 +299,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_10-PM--3--20260915T004232284Z-15ac0c1f-4cc8-471d-a186-7810e538b898.enc",
+          "file" : "assets/sheets/bca97b55-bc82-4de9-94a9-4d48ad7edba8.enc",
           "hash" : "2c8295bc17efecff70c83bcd7d9da3414db03185b03b698f73d260891b80856c",
           "id" : "39e42c5d-2a5e-4ac8-9c0e-50ab6e732d42",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_10 PM (3)",
@@ -307,7 +307,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--5--20260915T004232288Z-d8d483fd-e9f5-4ac7-943a-23520a99ca48.enc",
+          "file" : "assets/sheets/da7d45a7-f482-41e0-b20a-6f7dc27ffcd2.enc",
           "hash" : "0298ab25a9ee77a7c917f1083620910817252f6517de2e93cd6cd548dab54193",
           "id" : "cb31cbd5-b6ac-4a5c-9221-7359a1cb12c1",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (5)",
@@ -315,7 +315,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--6--20260915T004232290Z-fe550e12-ce89-4ac7-a98e-1dffe2752b2b.enc",
+          "file" : "assets/sheets/9c8904f5-d275-4ca6-877d-82ad3dbd42e1.enc",
           "hash" : "8a5968c15d7ae69c7ec93b0bce879a507fb8a00bc85a24f6532e6bef4a5898c3",
           "id" : "64acefd2-303f-49e8-9583-c80b8d93aab9",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (6)",
@@ -323,7 +323,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--7--20260915T004232292Z-23df764f-c4cd-42e0-8de0-23cb69c98678.enc",
+          "file" : "assets/sheets/42183b3b-24d1-44cf-b849-4b439ef510dc.enc",
           "hash" : "5268da3c7252c6de8f8dd761c1a5141741f85c152b69a6eec77ae5e81e0a434f",
           "id" : "78368720-4338-4867-9916-2fb21804a52f",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (7)",
@@ -331,7 +331,7 @@
           "uploadedAt" : "2026-09-15T00:42:32Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_04_11-PM--8--20260915T004232293Z-8521c786-f099-4227-a84b-65f679fd618f.enc",
+          "file" : "assets/sheets/182f0dad-6343-4b97-b300-f63b8f7f7135.enc",
           "hash" : "f2985eebf4a55e4f38de8c6429bc76d6cbccfe0d1e857c4348ec6eb931e794f5",
           "id" : "635c12ef-0660-412d-aab3-e07586c16094",
           "name" : "ChatGPT Image Sep 13, 2026, 11_04_11 PM (8)",
@@ -346,7 +346,7 @@
       ]
     },
     {
-      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_56-PM--5--20260915T005933171Z-e6fe1d98-a532-4524-906f-c0a28e78381d.enc",
+      "cover" : "assets/covers/ce8ef420-7212-4b06-8d56-fbe395c6e38d.enc",
       "coverAlignment" : "top",
       "coverHash" : "1d34a73f08b33661a61f105414b2d4e6e27a50d5a7d8a5136a74953308ac51a8",
       "coverUploadedAt" : "2026-09-15T00:59:33Z",
@@ -399,13 +399,13 @@
       "productId" : "com.colorbee.keeper.forest",
       "retiredSheets" : [
         {
-          "file" : "assets/packs/forest/ForestSheet1.enc",
+          "file" : "assets/packs/forest/dc107b09-3a1b-42aa-9621-a78e244dc955.enc",
           "hash" : "aae1a59758d5b75902ace4d97269911748bdde01641bb33bf49b0cc4c9588eda",
           "id" : "ForestSheet1",
           "name" : "Forest Sheet 1"
         },
         {
-          "file" : "assets/packs/forest/ForestSheet2.enc",
+          "file" : "assets/packs/forest/ae870c64-f672-46a9-a7a2-b10a6f608676.enc",
           "hash" : "d52cd07a064c41b4377919bb17e07d7eae640bd8ede175d081c395d485d1dc0d",
           "id" : "ForestSheet2",
           "name" : "Forest Sheet 2"
@@ -413,7 +413,7 @@
       ],
       "sheets" : [
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_27-PM--1--20260915T010559226Z-ef9dc3de-19a8-401e-82a6-37d273a066ed.enc",
+          "file" : "assets/sheets/139b0576-9ee7-46eb-8453-f9c2bd8e837f.enc",
           "hash" : "0b9fe2b3a3e9c11d3d1428f61bd448174963c5e539b38371aa662673e0763343",
           "id" : "e27d087f-f0eb-462f-b8ef-d06e97fe9183",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_27 PM (1)",
@@ -421,7 +421,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_28-PM--2--20260915T010559230Z-03c32172-8cca-4269-9a2f-83e9367419a3.enc",
+          "file" : "assets/sheets/74eb4de2-1fea-41eb-9913-dfb154655807.enc",
           "hash" : "c7ab9a9cf63862029265916edffd72781c46ef3675878109c4d008801f6eea03",
           "id" : "6bc06df5-7da6-4e41-a7eb-9172b7c1f776",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_28 PM (2)",
@@ -429,7 +429,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_28-PM--3--20260915T010559232Z-5f6b002d-96fa-492b-8483-15b9334871c7.enc",
+          "file" : "assets/sheets/cab58b68-728e-45c0-bb55-d76445f88c5c.enc",
           "hash" : "adf499ba0ed7162bbba27c01442a8f924b2c76eab9ff34225118ce82560c3521",
           "id" : "7e2036fd-d5fc-4863-ab59-dfa98c4055d9",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_28 PM (3)",
@@ -437,7 +437,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_28-PM--4--20260915T010559234Z-9332fc75-8244-4d22-a995-7e43df01c2ff.enc",
+          "file" : "assets/sheets/c038a657-b0c9-4b10-af22-aedeef19d1a7.enc",
           "hash" : "0df89dfd00f30ed9d26397baab210e5dc6738aa91c36e0e7336ccfb366a8b755",
           "id" : "4aac9b6d-ae90-47c5-98a1-db8a595171ba",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_28 PM (4)",
@@ -445,7 +445,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_29-PM--5--20260915T010559236Z-284881e3-64a3-41dd-a878-ab8b702a6445.enc",
+          "file" : "assets/sheets/87cb5a23-0500-4ea8-8043-7addbc4bd6f6.enc",
           "hash" : "1ee4f461ad20968194b4f5f600e0e813203495128d8096b53edf7896d8afe5c3",
           "id" : "1fe8eb6b-58b4-4ddb-80fd-395f5a7ef802",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_29 PM (5)",
@@ -453,7 +453,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_29-PM--6--20260915T010559239Z-dfdcfae3-ffcc-457f-9dc1-f1e7b520d129.enc",
+          "file" : "assets/sheets/fc066081-d407-40e3-a240-29cfdaccd700.enc",
           "hash" : "e9520cfd0a1d12459aaffdb68869e7b972acd94783d3f82b52ed6131e6d81706",
           "id" : "d74566bb-f9c0-4edb-9d9d-80ea731e2aba",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_29 PM (6)",
@@ -461,7 +461,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_29-PM--7--20260915T010559241Z-5db065c8-2657-4171-9005-864bb1ec608b.enc",
+          "file" : "assets/sheets/f5f7481b-3898-4e41-b50f-0452c5310898.enc",
           "hash" : "895b5fe1434d1a533fc5aefd787db4a62ffc61745416a983b52bf86c0976ab6e",
           "id" : "f6536cb8-cdd3-4089-8cfe-bb9b793ee80a",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_29 PM (7)",
@@ -469,7 +469,7 @@
           "uploadedAt" : "2026-09-15T01:05:59Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_27_29-PM--8--20260915T010559244Z-0c399d6c-90cd-4717-9f84-da026aa6c354.enc",
+          "file" : "assets/sheets/651fd5c1-f0ba-4e6e-a2e1-2e4cc0ea2224.enc",
           "hash" : "384ea8ea8cfee0df47e5dce55f8f87f5a0f856a6957ed7977eaffbf945f31cbf",
           "id" : "5950985a-7540-4f0b-8eb0-903ff8369f6a",
           "name" : "ChatGPT Image Sep 13, 2026, 11_27_29 PM (8)",
@@ -510,25 +510,25 @@
       "productId" : "com.colorbee.sheets.firstshapes",
       "retiredSheets" : [
         {
-          "file" : "assets/packs/firstshapes/FirstShapesSheet1.enc",
+          "file" : "assets/packs/firstshapes/6b9e1c00-71f1-4aba-b17a-203f191b5397.enc",
           "hash" : "a014bec6217d4bec5c66a481dd4c339637162ac763cdbcd7ad3f06755131345c",
           "id" : "FirstShapesSheet1",
           "name" : "First Shapes 1"
         },
         {
-          "file" : "assets/packs/firstshapes/FirstShapesSheet2.enc",
+          "file" : "assets/packs/firstshapes/69957b85-ead4-46c5-b094-ade0b6a0cecd.enc",
           "hash" : "3435d159577ad157c2751074b69833013bde0fcde1240a4985f20a49b380b06a",
           "id" : "FirstShapesSheet2",
           "name" : "First Shapes 2"
         },
         {
-          "file" : "assets/packs/firstshapes/FirstShapesSheet3.enc",
+          "file" : "assets/packs/firstshapes/f03c45ed-bed8-4829-915b-49d449719cbd.enc",
           "hash" : "07b9d583a3813b47a4793300d61df006c57da3d5e5990ce8ca57605a69992ae0",
           "id" : "FirstShapesSheet3",
           "name" : "First Shapes 3"
         },
         {
-          "file" : "assets/packs/firstshapes/FirstShapesSheet4.enc",
+          "file" : "assets/packs/firstshapes/4315350e-7ad7-429f-9afb-d401bd79a7be.enc",
           "hash" : "7d6331c3036df7c7937d6b7f18bcb1161962d92ba449127d1fbf8c06ef0354d8",
           "id" : "FirstShapesSheet4",
           "name" : "First Shapes 4"
@@ -611,7 +611,7 @@
           "red" : 1
         }
       ],
-      "cover" : "assets/covers/ChatGPT-Image-Sep-14--2026--09_30_49-PM--1--20260915T013635275Z-0b2b90f3-3dd9-4237-97d1-6094b045d918.enc",
+      "cover" : "assets/covers/a2466637-0236-4b5e-bb6b-cb74227ebbb2.enc",
       "coverAlignment" : "top",
       "coverHash" : "d68f3cc33363d375d02f80fa734690d33d6538f650504f872517020e018007e2",
       "coverUploadedAt" : "2026-09-15T01:36:35Z",
@@ -620,19 +620,19 @@
       "productId" : "com.colorbee.sheets.busybugs",
       "retiredSheets" : [
         {
-          "file" : "assets/packs/busybugs/BusyBugsSheet2.enc",
+          "file" : "assets/packs/busybugs/e91cdb02-e9a8-412f-9d18-b25555760b3a.enc",
           "hash" : "440911925a29d8ad27ceed715b8e292c5b35e8c05fa91a862820ba0a3caadd71",
           "id" : "BusyBugsSheet2",
           "name" : "Busy Bugs 2"
         },
         {
-          "file" : "assets/packs/busybugs/BusyBugsSheet3.enc",
+          "file" : "assets/packs/busybugs/a9bf9828-4aa3-4ef3-99cd-da5a025e9ac2.enc",
           "hash" : "eabaedd811e17f47f0a19d7b6128cbceaf3ae21951c195d056caebda0cc43347",
           "id" : "BusyBugsSheet3",
           "name" : "Busy Bugs 3"
         },
         {
-          "file" : "assets/packs/busybugs/BusyBugsSheet4.enc",
+          "file" : "assets/packs/busybugs/2fd5f075-3756-49a9-a5d0-abf89367ef10.enc",
           "hash" : "7143250bb116332257616e52d4c883b957b4a59bfd9792e89629d996b464acc0",
           "id" : "BusyBugsSheet4",
           "name" : "Busy Bugs 4"
@@ -640,13 +640,13 @@
       ],
       "sheets" : [
         {
-          "file" : "assets/packs/busybugs/BusyBugsSheet1.enc",
+          "file" : "assets/packs/busybugs/f3346039-39a1-4e24-9cd2-92f34bd1e7c9.enc",
           "hash" : "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d",
           "id" : "BusyBugsSheet1",
           "name" : "Busy Bugs 1"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--7--20260915T013650230Z-08a43248-7bf8-4339-91c3-3b3866d0ecbc.enc",
+          "file" : "assets/sheets/89052f3a-cf39-4d47-bf91-919ee09c1ac7.enc",
           "hash" : "99e9ff93aa5c752e6961cb0782771f63f9645520ff33e7eeb11211324dad4e12",
           "id" : "4c9605ef-a83a-4078-b385-238267150b28",
           "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (7)",
@@ -654,7 +654,7 @@
           "uploadedAt" : "2026-09-15T01:36:50Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--8--20260915T013650233Z-4aeaf33e-efbb-4ca6-ad7b-7e270e286a09.enc",
+          "file" : "assets/sheets/89d65919-cc79-42cf-95e9-7c382d0244f8.enc",
           "hash" : "b972eb3986248964f6f00833be342e7cf6016076d639a35fda5c59cd84922db2",
           "id" : "5c7368ba-aa10-46c1-b6ac-693a6ef45529",
           "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (8)",
@@ -662,7 +662,7 @@
           "uploadedAt" : "2026-09-15T01:36:50Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--9--20260915T013650236Z-4421e283-66b3-42b2-abc8-57eb517b51a9.enc",
+          "file" : "assets/sheets/ab098026-c6cc-469b-a02c-c832494b2303.enc",
           "hash" : "48a3a285fe243dc52c9d94666a4f0c50189d89522a75ce187e18fe8e798f9976",
           "id" : "45b4fa16-5234-4319-819e-3e54449839be",
           "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (9)",
@@ -670,7 +670,7 @@
           "uploadedAt" : "2026-09-15T01:36:50Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-14--2026--09_30_50-PM--10--20260915T013650238Z-66d92ce5-bca6-4fb2-b7db-162abb1ee3e9.enc",
+          "file" : "assets/sheets/fea2a0fc-27b5-4361-8060-d00d432e1424.enc",
           "hash" : "54593e25cc07c5e47d9f9e6c87203dee9aa7628c3c46cee1d570f20b39c14ab7",
           "id" : "0e923c43-5ca1-4139-a411-480de539173d",
           "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (10)",
@@ -699,7 +699,7 @@
           "red" : 0.19
         }
       ],
-      "cover" : "assets/covers/ChatGPT-Image-Sep-14--2026--09_30_49-PM--2--20260915T013113233Z-e63d0648-252e-47f5-93dd-b7198f0a0e98.enc",
+      "cover" : "assets/covers/a9fdda5f-c1f7-42b6-b757-fe9072bf3781.enc",
       "coverAlignment" : "top",
       "coverHash" : "e988dbcd9fb76e1e28e1e7ba036851126704d534c770c4bb72b2e4f1c6033a3e",
       "coverUploadedAt" : "2026-09-15T01:31:13Z",
@@ -711,43 +711,43 @@
       ],
       "sheets" : [
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet1.enc",
+          "file" : "assets/packs/dinodays/3dd3ced7-36e9-4f96-8946-e3ffacd7176a.enc",
           "hash" : "a0dcc8efbf01d12584ce6155debfb5e721218ef9114e13cbdc7d068b67960239",
           "id" : "DinoDaysSheet1",
           "name" : "Dino Days 1"
         },
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet2.enc",
+          "file" : "assets/packs/dinodays/d30e9af9-db92-43ff-a004-b0dd6c0093df.enc",
           "hash" : "b1eff4404e6d5f67bbef61881db60e97dd831314c1fce6a948784923de3202b6",
           "id" : "DinoDaysSheet2",
           "name" : "Dino Days 2"
         },
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet3.enc",
+          "file" : "assets/packs/dinodays/75ca4881-083d-4da5-8d11-e3b10d3ee10b.enc",
           "hash" : "8df8187571877334b7b8d390c56002669307993835edbe330952e2f773f3adfd",
           "id" : "DinoDaysSheet3",
           "name" : "Dino Days 3"
         },
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet4.enc",
+          "file" : "assets/packs/dinodays/d4b8d501-444b-4394-85f9-d376f2f1353c.enc",
           "hash" : "9741516d579e5412adafbfa190d30ea9283a7cf4440622d4d884e244176b0099",
           "id" : "DinoDaysSheet4",
           "name" : "Dino Days 4"
         },
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet5.enc",
+          "file" : "assets/packs/dinodays/c63ec1e2-d3a1-44fc-8f8d-7b8ff196ecf5.enc",
           "hash" : "5d9a233f6295e49495d876fd758e8f14ce1b7e3c98e3677a7f57041b7803c4ee",
           "id" : "DinoDaysSheet5",
           "name" : "Dino Days 5"
         },
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet6.enc",
+          "file" : "assets/packs/dinodays/6cfa695e-2268-46e2-bc14-a4197c4343fe.enc",
           "hash" : "895bb07b04be0d9d554f023a880e4563c125e884bd530e5cb5fef7ed5914562a",
           "id" : "DinoDaysSheet6",
           "name" : "Dino Days 6"
         },
         {
-          "file" : "assets/packs/dinodays/DinoDaysSheet7.enc",
+          "file" : "assets/packs/dinodays/42e72ce1-0448-4871-b42a-351be8449f65.enc",
           "hash" : "22a5b620588d4fbeaefa6f981833896e684080e4d1b4a0622f29fbdfb8113fe8",
           "id" : "DinoDaysSheet7",
           "name" : "Dino Days 7"
@@ -773,7 +773,7 @@
           "red" : 0.686
         }
       ],
-      "cover" : "assets/covers/ChatGPT-Image-Sep-13--2026--10_46_55-PM--2--20260915T005532416Z-e1c1d4bc-4027-4786-be47-792f839365a1.enc",
+      "cover" : "assets/covers/2a3aa8b0-3d6d-4500-b189-0fba600a08b0.enc",
       "coverAlignment" : "top",
       "coverHash" : "3d219fa68cd4f9b900adcb56254d4d6b0788a8abb97b6ee216466bf59852f550",
       "coverUploadedAt" : "2026-09-15T00:55:32Z",
@@ -782,25 +782,25 @@
       "productId" : "com.colorbee.sheets.starrynight",
       "retiredSheets" : [
         {
-          "file" : "assets/packs/starrynight/StarryNightSheet1.enc",
+          "file" : "assets/packs/starrynight/3c39d520-bcb1-456a-ab08-dc46bee7674a.enc",
           "hash" : "c0b32bbd34c18112b19fd16f4a5aa6861aefe400434cdb82354ef17edba5cca0",
           "id" : "StarryNightSheet1",
           "name" : "Starry Night 1"
         },
         {
-          "file" : "assets/packs/starrynight/StarryNightSheet2.enc",
+          "file" : "assets/packs/starrynight/03e5e8e9-eb1b-44bc-95e5-d7968674a083.enc",
           "hash" : "9cd087c295475d56707330d895fc24a12867465ae5f7cf7ff49bb18e2f719813",
           "id" : "StarryNightSheet2",
           "name" : "Starry Night 2"
         },
         {
-          "file" : "assets/packs/starrynight/StarryNightSheet3.enc",
+          "file" : "assets/packs/starrynight/8718db23-68df-49af-b2f1-6c55f75f002d.enc",
           "hash" : "1447c54b101f6f160afebf35b069377ff9f2df7737661e9b5b79d100ccb632ae",
           "id" : "StarryNightSheet3",
           "name" : "Starry Night 3"
         },
         {
-          "file" : "assets/packs/starrynight/StarryNightSheet4.enc",
+          "file" : "assets/packs/starrynight/6d4e9e8d-f78f-407a-9e61-b155630d5f98.enc",
           "hash" : "64c64978c9eac20fe74a8bee9133365c5fa35fce1c4fcef33e13168c5203f4ca",
           "id" : "StarryNightSheet4",
           "name" : "Starry Night 4"
@@ -808,7 +808,7 @@
       ],
       "sheets" : [
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--1--20260915T005551500Z-437d8d2a-b0e0-47fc-82cd-659695b04d39.enc",
+          "file" : "assets/sheets/2cb5b9d6-b3d1-4925-8b3d-bb2f3bcc8f36.enc",
           "hash" : "50e16907f7be9a70fbdb31015582d37978c85d283514f3584527bd123f115337",
           "id" : "b5496f3a-aa07-4c5c-8173-a1da580137e5",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (1)",
@@ -816,7 +816,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--2--20260915T005551503Z-af4a5572-8127-46a4-9743-5020958fd802.enc",
+          "file" : "assets/sheets/10088ef4-80d5-49b0-b9a5-36d2fbc14007.enc",
           "hash" : "9b6d188f844a349f9930acd7f066f0a8f1c309c9c7a8e71e37d2b2b1c2a7ecbe",
           "id" : "eda39f64-f129-405b-a941-aa303d1c5cb7",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (2)",
@@ -824,7 +824,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--3--20260915T005551505Z-37137fc4-569e-42b4-9d89-b2a95a569562.enc",
+          "file" : "assets/sheets/46d7e4a0-d01d-4162-a324-85f61a83d23b.enc",
           "hash" : "d2d81db613eab7a4a59ed8fae0f3b35de423641cf77f24886b45f1409c2a7c70",
           "id" : "2acd5f2e-b8ed-47e4-acb5-f937b3f6e889",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (3)",
@@ -832,7 +832,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--4--20260915T005551507Z-97c77a7f-ad8a-441e-94b8-27965b59ad70.enc",
+          "file" : "assets/sheets/0df3c6a0-20a8-421a-a868-a089c9f40216.enc",
           "hash" : "41047c1a8548574ae61832fd326a515bd72c51ff9fc5e814d3993ec192e82c04",
           "id" : "3e291b95-beb9-49bf-8b41-eab453f84558",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (4)",
@@ -840,7 +840,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--5--20260915T005551510Z-ffa9180a-f477-4933-9221-4f3ef031b5c4.enc",
+          "file" : "assets/sheets/5d0623f0-0e8d-451c-aed5-f662bdd832cd.enc",
           "hash" : "3dfadc945ad3849b8fe84ca8a474471c9a4c39adb983025f6825bc7b5d307dde",
           "id" : "0a401a42-ea73-48cb-a2be-751b20b2db59",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (5)",
@@ -848,7 +848,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--6--20260915T005551512Z-60ca3f1f-be36-484f-bfcd-0cebdd78e6f8.enc",
+          "file" : "assets/sheets/ef03e356-c818-40a9-b3b4-b23ae2d33ee6.enc",
           "hash" : "ddff5891c1715a0239efe4eeaf0f9f02d89ec0bbe2e3192f9a04cc6cde742105",
           "id" : "de0104c2-1a02-479e-8ae0-17fa692e3847",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (6)",
@@ -856,7 +856,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--7--20260915T005551514Z-c61ed2c8-ef01-4cd3-9be9-2aa51352ae69.enc",
+          "file" : "assets/sheets/129fce23-8202-404a-8040-4aad6fbd1776.enc",
           "hash" : "f205848e7bafea1149c9a38f13437ff752c7f3b58e99671522093bf74a4793ea",
           "id" : "d51e03b6-b025-424c-a741-5eb74a600fca",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (7)",
@@ -864,7 +864,7 @@
           "uploadedAt" : "2026-09-15T00:55:51Z"
         },
         {
-          "file" : "assets/sheets/ChatGPT-Image-Sep-13--2026--11_31_59-PM--8--20260915T005551517Z-a0e20c4d-d22e-4fbc-8c41-9c0560c07bf0.enc",
+          "file" : "assets/sheets/9a2297fe-874c-4d36-8fd7-1972b8fb600a.enc",
           "hash" : "1d9faf2b14f88de880efc7c594a2e1fb867c7332077062c51d3e115fdfe87178",
           "id" : "b14f4b7f-dc6e-41b0-9aa0-2bd6fb986e4c",
           "name" : "ChatGPT Image Sep 13, 2026, 11_31_59 PM (8)",
