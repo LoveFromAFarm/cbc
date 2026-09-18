@@ -50,7 +50,7 @@
       "availableFrom" : "2026-08-01T00:00:00Z",
       "id" : "2026-08",
       "name" : "Beach Day",
-      "sheets" : [
+      "retiredSheets" : [
         {
           "file" : "assets/free/2026-08/f35b6b80-4395-4ecd-ad9a-e92d3f9eaa43.enc",
           "hash" : "745526d14a3d085b06bfdce6aafa2959523bc882bf61a671214a0c35ce41b73b",
@@ -62,6 +62,24 @@
           "hash" : "4801c6c43abfcd74e980c430b499f7d6e6a1d4ea1c540b441eed8541c48ebed1",
           "id" : "free-2026-08-tide-pool",
           "name" : "Tide Pool"
+        }
+      ],
+      "sheets" : [
+        {
+          "file" : "assets/sheets/cc4623fa-8642-4612-90ea-39abc642b9fa.enc",
+          "hash" : "49d1140efd79f59f03f4d0ca5275cff8383102d2fcd759aabdc8a88424c21e06",
+          "id" : "1570f99f-adc5-4bf7-a772-ddfd91490324",
+          "name" : "ChatGPT Image Sep 18, 2026, 01_44_22 AM (1)",
+          "sourceFilename" : "ChatGPT Image Sep 18, 2026, 01_44_22 AM (1).png",
+          "uploadedAt" : "2026-09-18T14:28:03Z"
+        },
+        {
+          "file" : "assets/sheets/ff9c2b0e-4d85-4651-8b5c-a1e6e21806f8.enc",
+          "hash" : "c71a43ad1e28dcc4856ef6db5256e25ea1d3e339f3361a4094ce19cdbd25c4c1",
+          "id" : "a57cd1ca-d911-41d4-a5a2-c850d55a0784",
+          "name" : "ChatGPT Image Sep 18, 2026, 01_44_22 AM (2)",
+          "sourceFilename" : "ChatGPT Image Sep 18, 2026, 01_44_22 AM (2).png",
+          "uploadedAt" : "2026-09-18T14:28:03Z"
         }
       ]
     }
