@@ -735,43 +735,43 @@
           "file" : "assets/packs/dinodays/3dd3ced7-36e9-4f96-8946-e3ffacd7176a.enc",
           "hash" : "a0dcc8efbf01d12584ce6155debfb5e721218ef9114e13cbdc7d068b67960239",
           "id" : "DinoDaysSheet1",
-          "name" : "Dino Days 1"
+          "name" : "Tyrannosaurus Rex"
         },
         {
           "file" : "assets/packs/dinodays/d30e9af9-db92-43ff-a004-b0dd6c0093df.enc",
           "hash" : "b1eff4404e6d5f67bbef61881db60e97dd831314c1fce6a948784923de3202b6",
           "id" : "DinoDaysSheet2",
-          "name" : "Dino Days 2"
+          "name" : "Brachiosaurus"
         },
         {
           "file" : "assets/packs/dinodays/75ca4881-083d-4da5-8d11-e3b10d3ee10b.enc",
           "hash" : "8df8187571877334b7b8d390c56002669307993835edbe330952e2f773f3adfd",
           "id" : "DinoDaysSheet3",
-          "name" : "Dino Days 3"
+          "name" : "Pterodactyl"
         },
         {
           "file" : "assets/packs/dinodays/d4b8d501-444b-4394-85f9-d376f2f1353c.enc",
           "hash" : "9741516d579e5412adafbfa190d30ea9283a7cf4440622d4d884e244176b0099",
           "id" : "DinoDaysSheet4",
-          "name" : "Dino Days 4"
+          "name" : "Pleisiosaurus"
         },
         {
           "file" : "assets/packs/dinodays/c63ec1e2-d3a1-44fc-8f8d-7b8ff196ecf5.enc",
           "hash" : "5d9a233f6295e49495d876fd758e8f14ce1b7e3c98e3677a7f57041b7803c4ee",
           "id" : "DinoDaysSheet5",
-          "name" : "Dino Days 5"
+          "name" : "Triceratops"
         },
         {
           "file" : "assets/packs/dinodays/6cfa695e-2268-46e2-bc14-a4197c4343fe.enc",
           "hash" : "895bb07b04be0d9d554f023a880e4563c125e884bd530e5cb5fef7ed5914562a",
           "id" : "DinoDaysSheet6",
-          "name" : "Dino Days 6"
+          "name" : "Maiasaura"
         },
         {
           "file" : "assets/packs/dinodays/42e72ce1-0448-4871-b42a-351be8449f65.enc",
           "hash" : "22a5b620588d4fbeaefa6f981833896e684080e4d1b4a0622f29fbdfb8113fe8",
           "id" : "DinoDaysSheet7",
-          "name" : "Dino Days 7"
+          "name" : "Mammoth"
         }
       ],
       "tagline" : "Gentle dinosaurs with lots of little details.",
