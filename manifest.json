@@ -664,13 +664,13 @@
           "file" : "assets/packs/busybugs/f3346039-39a1-4e24-9cd2-92f34bd1e7c9.enc",
           "hash" : "9198ff41f2fe5eb79fd1c8b145a1006d845214c065aceb419e6de7cc7fda182d",
           "id" : "BusyBugsSheet1",
-          "name" : "Busy Bugs 1"
+          "name" : "Busy Bugs"
         },
         {
           "file" : "assets/sheets/89052f3a-cf39-4d47-bf91-919ee09c1ac7.enc",
           "hash" : "99e9ff93aa5c752e6961cb0782771f63f9645520ff33e7eeb11211324dad4e12",
           "id" : "4c9605ef-a83a-4078-b385-238267150b28",
-          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (7)",
+          "name" : "Bee",
           "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (7).png",
           "uploadedAt" : "2026-09-15T01:36:50Z"
         },
@@ -678,7 +678,7 @@
           "file" : "assets/sheets/89d65919-cc79-42cf-95e9-7c382d0244f8.enc",
           "hash" : "b972eb3986248964f6f00833be342e7cf6016076d639a35fda5c59cd84922db2",
           "id" : "5c7368ba-aa10-46c1-b6ac-693a6ef45529",
-          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (8)",
+          "name" : "Butterfly",
           "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (8).png",
           "uploadedAt" : "2026-09-15T01:36:50Z"
         },
@@ -686,7 +686,7 @@
           "file" : "assets/sheets/ab098026-c6cc-469b-a02c-c832494b2303.enc",
           "hash" : "48a3a285fe243dc52c9d94666a4f0c50189d89522a75ce187e18fe8e798f9976",
           "id" : "45b4fa16-5234-4319-819e-3e54449839be",
-          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (9)",
+          "name" : "Ladybug",
           "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (9).png",
           "uploadedAt" : "2026-09-15T01:36:50Z"
         },
@@ -694,7 +694,7 @@
           "file" : "assets/sheets/fea2a0fc-27b5-4361-8060-d00d432e1424.enc",
           "hash" : "54593e25cc07c5e47d9f9e6c87203dee9aa7628c3c46cee1d570f20b39c14ab7",
           "id" : "0e923c43-5ca1-4139-a411-480de539173d",
-          "name" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (10)",
+          "name" : "Ant",
           "sourceFilename" : "ChatGPT Image Sep 14, 2026, 09_30_50 PM (10).png",
           "uploadedAt" : "2026-09-15T01:36:50Z"
         }
