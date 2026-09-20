@@ -12,19 +12,22 @@
       "availableFrom" : "2026-07-01T00:00:00Z",
       "id" : "2026-07",
       "name" : "Summer Friends",
-      "sheets" : [
-        {
-          "file" : "assets/free/2026-07/23e91ac1-279a-401b-a623-ba7b525776b6.enc",
-          "hash" : "61772a2fe24dc2991bb588fabf44f2b08b1b14cc2b77792bc9c8e56fa094db04",
-          "id" : "free-2026-07-buzzy-meadow",
-          "name" : "Buzzy Meadow"
-        },
+      "retiredSheets" : [
         {
           "file" : "assets/free/2026-07/a7e932bd-33ca-4474-86f4-8ea15ce784f5.enc",
           "hash" : "17dbaa05c2353316844d2d3737a4c5db45a3d6f5e896c676954f5d9707f6ccad",
           "id" : "free-2026-07-picnic-day",
           "name" : "Picnic Day"
+        },
+        {
+          "file" : "assets/free/2026-07/23e91ac1-279a-401b-a623-ba7b525776b6.enc",
+          "hash" : "61772a2fe24dc2991bb588fabf44f2b08b1b14cc2b77792bc9c8e56fa094db04",
+          "id" : "free-2026-07-buzzy-meadow",
+          "name" : "Buzzy Meadow"
         }
+      ],
+      "sheets" : [
+
       ]
     },
     {
